@@ -1,6 +1,6 @@
 export const educationData = [
   {
-    id: 2,
+    id: 1,
     institution: "R D Inter Collage Gorakhpur",
     course: "Senior Secondary Education",
     startYear: "2013",
